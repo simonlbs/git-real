@@ -1,2 +1,3 @@
-users local
+
+users local 1
 local
